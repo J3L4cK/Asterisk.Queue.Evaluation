@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asterisk.Queue.Evaluation.Gui", "src\Asterisk.Queue.Evaluation.Gui\Asterisk.Queue.Evaluation.Gui.csproj", "{75C3A862-F00C-46A5-B2D3-BCD8CAE033A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C3A862-F00C-46A5-B2D3-BCD8CAE033A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C3A862-F00C-46A5-B2D3-BCD8CAE033A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C3A862-F00C-46A5-B2D3-BCD8CAE033A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C3A862-F00C-46A5-B2D3-BCD8CAE033A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DDC2FB9-BE04-4501-8F24-CC131DB2F307}
+	EndGlobalSection
+EndGlobal
